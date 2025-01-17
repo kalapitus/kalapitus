@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning JavaScript (Node.js), Java, REST APIs (Spring Boot, Express)
 - :shipit: Fun fact: my cat's name is Hania :scream_cat:
 
-"an idiot admires complexity a genius admires simplicity" ~Terry Davis, Creator of Temple OS
+"An idiot admires complexity, a genius admires simplicity" ~Terry Davis, Creator of Temple OS
